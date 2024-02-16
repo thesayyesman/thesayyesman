@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1HUsqqpNP3I9QWdCSY18DiV1fFA4-uR86/view?usp=drive_link)
+![logo](https://img.freepik.com/premium-photo/ethereum-icon-dark-background-with-electric-lightning-neon-glow-generative-ai_308595-2734.jpg?w=1060)
 <h1 align="center">Hi 👋, I'm Manu Sharma</h1>
 <h3 align="center">An enthusiastic blockchain developer hailing from India.</h3>
 <img align="right" alt="Blockchain" width="400" src="https://i.gifer.com/6z8J.gif">
